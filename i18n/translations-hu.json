@@ -1,0 +1,78 @@
+[
+  {
+    "key": "KEY_HUNGARIAN",
+    "term": "Magyar"
+  },
+  {
+    "key": "KEY_ROMANIAN",
+    "term": "Română"
+  },
+  {
+    "key": "KEY_ENGLISH",
+    "term": "English"
+  },
+  {
+    "key": "KEY_GERMAN",
+    "term": "Deutsche"
+  },
+  {
+    "key": "KEY_SUBTITLE",
+    "term": "Marosvásárhelyi Problémajelentő"
+  },
+  {
+    "key": "KEY_IMPRESSUM",
+    "term": "impresszum"
+  },
+  {
+    "key": "KEY_DATA_PROTECTION",
+    "term": "Adatvédelem és adatbiztonság"
+  },
+  {
+    "key": "KEY_HELP",
+    "term": "Hogyan segíthetünk?"
+  },
+  {
+    "key": "KEY_TEXT_AREA_PLACEHOLDER",
+    "term": "Írja le problémáját, kérdését…"
+  },
+  {
+    "key": "KEY_SEND",
+    "term": "KÜLDÉS"
+  },
+  {
+    "key": "KEY_THANKS",
+    "term": "Köszönjük, megkaptuk a bejelentését!"
+  },
+  {
+    "key": "KEY_FEEDBACK_TEXT",
+    "term": "Ha szeretne visszajelzést, kérjük adja meg emailcímét."
+  },
+  {
+    "key": "KEY_NAME",
+    "term": "Az Ön neve:"
+  },
+  {
+    "key": "KEY_PHONE",
+    "term": "Telefonszáma:"
+  },
+  {
+    "key": "KEY_EMAIL",
+    "term": "Email címe:"
+  },
+  {
+    "key": "KEY_AGREE_PRIVACY",
+    "term": "Beleeegyezem, hogy személyes adataim felhasználják kommunikációs célra."
+  },
+  {
+    "key": "KEY_CHECKBOX_PRIVACY",
+    "term": "Adatvédelmi tájékoztató…"
+  },
+  {
+    "key": "KEY_THANKS",
+    "term": "Köszönjük, hamarosan visszajelzünk."
+  },
+  {
+    "key": "KEY_MORE_QUESTION",
+    "term": "További kérdése van?"
+  }
+]
