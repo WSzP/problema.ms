@@ -74,5 +74,13 @@
   {
     "key": "KEY_MORE_QUESTION",
     "term": "Do you have another inquiry?"
+  },
+  {
+    "key": "KEY_FILL_ISSUE",
+    "term": "Please add your report, in at least 10 character!"
+  },
+  {
+    "key": "KEY_ADD_EMAIL_PHONE",
+    "term": "Please add your phone number or email to be able to feedback"
   }
 ]
