@@ -74,5 +74,13 @@
   {
     "key": "KEY_MORE_QUESTION",
     "term": "További kérdése van?"
+  },
+  {
+    "key": "KEY_FILL_ISSUE",
+    "term": "Kérjük írja be észrevételét, legalább 10 karakterben!"
+  },
+  {
+    "key": "KEY_ADD_EMAIL_PHONE",
+    "term": "Kérjük adja meg a telefonszámát és/vagy email címét, hogy visszajelezhessünk!"
   }
 ]
