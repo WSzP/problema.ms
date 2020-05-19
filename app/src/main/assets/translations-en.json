@@ -21,47 +21,47 @@
   },
   {
     "key": "KEY_IMPRESSUM",
-    "term": "impresszum"
+    "term": "Impressum"
   },
   {
     "key": "KEY_DATA_PROTECTION",
-    "term": "Adatvédelem és adatbiztonság"
+    "term": "Data protection and privacy"
   },
   {
     "key": "KEY_HELP",
-    "term": "Hogyan segíthetünk?"
+    "term": "How can we help?"
   },
   {
     "key": "KEY_TEXT_AREA_PLACEHOLDER",
-    "term": "Írja le problémáját, kérdését…"
+    "term": "Please specify your problem or request…"
   },
   {
     "key": "KEY_SEND",
-    "term": "KÜLDÉS"
+    "term": "SEND"
   },
   {
     "key": "KEY_THANKS",
-    "term": "Köszönjük, megkaptuk a bejelentését!"
+    "term": "Thank you, we have received your inquiry."
   },
   {
     "key": "KEY_FEEDBACK_TEXT",
-    "term": "Ha szeretne visszajelzést, kérjük adja meg emailcímét."
+    "term": "If you would like to receive a reply, please specify your email address."
   },
   {
     "key": "KEY_NAME",
-    "term": "Az Ön neve:"
+    "term": "Your name:"
   },
   {
     "key": "KEY_PHONE",
-    "term": "Telefonszáma:"
+    "term": "Your phone number:"
   },
   {
     "key": "KEY_EMAIL",
-    "term": "Email címe:"
+    "term": "Your email:"
   },
   {
     "key": "KEY_AGREE_PRIVACY",
-    "term": "Beleeegyezem, hogy személyes adataim felhasználják kommunikációs célra."
+    "term": "I agree with the use of my personal details for communication purposes."
   },
   {
     "key": "KEY_CHECKBOX_PRIVACY",
@@ -69,18 +69,22 @@
   },
   {
     "key": "KEY_THANKS",
-    "term": "Köszönjük, hamarosan visszajelzünk."
+    "term": "Thank you, we will get back to you shortly."
   },
   {
     "key": "KEY_MORE_QUESTION",
-    "term": "További kérdése van?"
+    "term": "Do you have another inquiry?"
+  },
+  {
+    "key": "KEY_GENERAL_ERROR",
+    "term": "Error, happened, during your request, check your internet connection and try again later!"
   },
   {
     "key": "KEY_FILL_ISSUE",
-    "term": "Kérem írjon legalább egy mondatot (minimum 10 karakter)."
+    "term": "Please write at least a sentence (minimum 10 characters)."
   },
   {
     "key": "KEY_ADD_EMAIL_PHONE",
-    "term": "Kérem adja meg az email címét vagy telefonszámát. (Egyébként nem tudunk válaszolni.)"
+    "term": "Please specify your phone number or email. (Otherwise, we can't reply.)"
   }
 ]

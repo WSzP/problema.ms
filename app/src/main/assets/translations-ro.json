@@ -40,7 +40,7 @@
     "term": "TRIMITE"
   },
   {
-    "key": "KEY_THANKS",
+    "key": "KEY_THANKS_INQUIRY",
     "term": "Mulțumim, am primit sesizarea!"
   },
   {
@@ -74,6 +74,14 @@
   {
     "key": "KEY_MORE_QUESTION",
     "term": "Aveți mai multe întrebări?"
+  },
+  {
+    "key": "KEY_MORE_QUESTION",
+    "term": "Error, happened, during your request, check your internet connection and try again later!"
+  },
+  {
+    "key": "KEY_GENERAL_ERROR",
+    "term": "Error, happened, during your request, check your internet connection and try again later!"
   },
   {
     "key": "KEY_FILL_ISSUE",

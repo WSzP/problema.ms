@@ -40,7 +40,7 @@
     "term": "KÜLDÉS"
   },
   {
-    "key": "KEY_THANKS",
+    "key": "KEY_THANKS_INQUIRY",
     "term": "Köszönjük, megkaptuk a bejelentését!"
   },
   {
@@ -74,6 +74,10 @@
   {
     "key": "KEY_MORE_QUESTION",
     "term": "További kérdése van?"
+  },
+  {
+    "key": "KEY_GENERAL_ERROR",
+    "term": "Hiba történt, kérjük ellenőrizze az internetapcsolatát és próbálja meg újra!"
   },
   {
     "key": "KEY_FILL_ISSUE",
