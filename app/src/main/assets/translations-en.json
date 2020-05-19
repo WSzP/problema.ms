@@ -81,10 +81,10 @@
   },
   {
     "key": "KEY_FILL_ISSUE",
-    "term": "Please add your report, in at least 10 character!"
+    "term": "Please write at least a sentence (minimum 10 characters)."
   },
   {
     "key": "KEY_ADD_EMAIL_PHONE",
-    "term": "Please add your phone number or email to be able to feedback"
+    "term": "Please specify your phone number or email. (Otherwise, we can't reply.)"
   }
 ]

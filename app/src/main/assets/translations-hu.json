@@ -81,10 +81,10 @@
   },
   {
     "key": "KEY_FILL_ISSUE",
-    "term": "Kérjük írja be észrevételét, legalább 10 karakterben!"
+    "term": "Kérem írjon legalább egy mondatot (minimum 10 karakter)."
   },
   {
     "key": "KEY_ADD_EMAIL_PHONE",
-    "term": "Kérjük adja meg a telefonszámát és/vagy email címét, hogy visszajelezhessünk"
+    "term": "Kérem adja meg az email címét vagy telefonszámát. (Egyébként nem tudunk válaszolni.)"
   }
 ]

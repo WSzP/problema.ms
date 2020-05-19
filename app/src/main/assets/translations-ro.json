@@ -85,10 +85,10 @@
   },
   {
     "key": "KEY_FILL_ISSUE",
-    "term": "Please add your report, in at least 10 character!"
+    "term": "Vă rugăm să scrieți măcar o propoziție (minimum 10 caractere)."
   },
   {
     "key": "KEY_ADD_EMAIL_PHONE",
-    "term": "Please add your phone number or email to be able to feedback"
+    "term": "Vă rugăm să completați cel puțin adresa de email sau nr. de telefon. (Altfel nu putem să vă răspundem.)"
   }
 ]
