@@ -11,8 +11,8 @@
         android:id="@+id/imageView"
         android:layout_width="@dimen/logo_size"
         android:layout_height="@dimen/logo_size"
-        android:tint="@color/colorAccent"
         android:src="@drawable/ic_check_24px"
+        android:tint="@color/colorAccent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0"
         app:layout_constraintStart_toStartOf="parent"
@@ -106,6 +106,7 @@
 
     <Button
         android:id="@+id/personalDataSenderSend"
+        style="@style/sendButtonStyle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:paddingTop="16dp"

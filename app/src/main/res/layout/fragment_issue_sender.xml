@@ -46,6 +46,7 @@
 
     <Button
         android:id="@+id/issueSenderButton"
+        style="@style/sendButtonStyle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/general_padding"
