@@ -77,10 +77,18 @@
   },
   {
     "key": "KEY_FILL_ISSUE",
+<<<<<<< HEAD
     "term": "Kérem írjon legalább egy mondatot (minimum 10 karakter)."
   },
   {
     "key": "KEY_ADD_EMAIL_PHONE",
     "term": "Kérem adja meg az email címét vagy telefonszámát. (Egyébként nem tudunk válaszolni.)"
+=======
+    "term": "Kérjük írja be észrevételét, legalább 10 karakterben!"
+  },
+  {
+    "key": "KEY_ADD_EMAIL_PHONE",
+    "term": "Kérjük adja meg a telefonszámát és/vagy email címét, hogy visszajelezhessünk!"
+>>>>>>> 907b14c6fde5223b4e03b05581014d9bc3845aa6
   }
 ]

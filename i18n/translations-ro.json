@@ -77,10 +77,18 @@
   },
   {
     "key": "KEY_FILL_ISSUE",
+<<<<<<< HEAD
     "term": "Vă rugăm să scrieți măcar o propoziție (minimum 10 caractere)."
   },
   {
     "key": "KEY_ADD_EMAIL_PHONE",
     "term": "Vă rugăm să completați cel puțin adresa de email sau nr. de telefon. (Altfel nu putem să vă răspundem.)"
+=======
+    "term": "Please add your report, in at least 10 character!"
+  },
+  {
+    "key": "KEY_ADD_EMAIL_PHONE",
+    "term": "Please add your phone number or email to be able to feedback"
+>>>>>>> 907b14c6fde5223b4e03b05581014d9bc3845aa6
   }
 ]
