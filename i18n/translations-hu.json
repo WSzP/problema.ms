@@ -74,5 +74,13 @@
   {
     "key": "KEY_MORE_QUESTION",
     "term": "További kérdése van?"
+  },
+  {
+    "key": "KEY_FILL_ISSUE",
+    "term": "Kérem írjon legalább egy mondatot (minimum 10 karakter)."
+  },
+  {
+    "key": "KEY_ADD_EMAIL_PHONE",
+    "term": "Kérem adja meg az email címét vagy telefonszámát. (Egyébként nem tudunk válaszolni.)"
   }
 ]
