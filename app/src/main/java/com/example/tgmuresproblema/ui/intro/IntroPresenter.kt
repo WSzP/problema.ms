@@ -37,6 +37,7 @@ class IntroPresenter(view: IntroContract.View) : IntroContract.Presenter(view), 
                 }
 
                 override fun onNext(t: Boolean?) {
+                    SavedValues.firstStart.put(true)
                     SavedValues.language.put(it.languageKey)
                     translationManager.loadTranslationsToMemory(it.languageKey)
                     view?.showNextFragment()
