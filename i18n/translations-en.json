@@ -77,10 +77,18 @@
   },
   {
     "key": "KEY_FILL_ISSUE",
+<<<<<<< HEAD
+    "term": "Please write at least a sentence (minimum 10 characters)."
+  },
+  {
+    "key": "KEY_ADD_EMAIL_PHONE",
+    "term": "Please specify your phone number or email. (Otherwise, we can't reply.)"
+=======
     "term": "Please add your report, in at least 10 character!"
   },
   {
     "key": "KEY_ADD_EMAIL_PHONE",
     "term": "Please add your phone number or email to be able to feedback"
+>>>>>>> 907b14c6fde5223b4e03b05581014d9bc3845aa6
   }
 ]
