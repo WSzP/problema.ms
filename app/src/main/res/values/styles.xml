@@ -6,6 +6,12 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/textStyle</item>
+        <item name="android:editTextStyle">@style/textStyle</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:textSize">@dimen/general_text_size</item>
     </style>
 
 </resources>
