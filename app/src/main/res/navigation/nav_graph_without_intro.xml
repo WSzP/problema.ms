@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/issueSenderFragment">
+
+    <fragment
+        android:id="@+id/issueSenderFragment"
+        android:name="com.example.tgmuresproblema.ui.issuesender.IssueSenderFragment"
+        android:label="fragment_issue_sender"
+        tools:layout="@layout/fragment_issue_sender">
+        <action
+            android:id="@+id/action_issueSenderFragment_to_personalDataFragment"
+            app:destination="@id/personalDataFragment"
+            app:popUpTo="@+id/nav_graph"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/personalDataFragment"
+        android:name="com.example.tgmuresproblema.ui.personaldata.PersonalDataFragment"
+        android:label="fragment_personal_data"
+        tools:layout="@layout/fragment_personal_data">
+        <action
+            android:id="@+id/action_personalDataFragment_to_issueSenderFragment"
+            app:destination="@id/issueSenderFragment"
+            app:popUpTo="@+id/nav_graph"
+            app:popUpToInclusive="true" />
+    </fragment>
+</navigation>
