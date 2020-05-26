@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/introFragment"
-        android:name="com.example.tgmuresproblema.ui.intro.IntroFragment"
+        android:name="ms.problema.tgmuresproblema.ui.intro.IntroFragment"
         android:label="fragment_intro"
         tools:layout="@layout/fragment_intro">
         <action
@@ -19,7 +19,7 @@
     </fragment>
     <fragment
         android:id="@+id/issueSenderFragment"
-        android:name="com.example.tgmuresproblema.ui.issuesender.IssueSenderFragment"
+        android:name="ms.problema.tgmuresproblema.ui.issuesender.IssueSenderFragment"
         android:label="fragment_issue_sender"
         tools:layout="@layout/fragment_issue_sender">
         <action
@@ -30,7 +30,7 @@
     </fragment>
     <fragment
         android:id="@+id/personalDataFragment"
-        android:name="com.example.tgmuresproblema.ui.personaldata.PersonalDataFragment"
+        android:name="ms.problema.tgmuresproblema.ui.personaldata.PersonalDataFragment"
         android:label="fragment_personal_data"
         tools:layout="@layout/fragment_personal_data">
         <action
